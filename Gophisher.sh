@@ -92,7 +92,7 @@ banner() {
 		${ORANGE} 
 		${ORANGE}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Git-Tool's (rockyjaat47)${WHITE}
 	EOF
 }
 
